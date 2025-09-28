@@ -19,3 +19,4 @@ def process(self, sample: float) -> float:
         """
         Calculate y[n]
 # ===== конец вставки =====
+#  2025-09-28 21:46:22.056570

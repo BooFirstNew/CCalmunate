@@ -29,3 +29,9 @@ def process(self, sample: float) -> float:
 # Автоген комментарий 2025-09-28 21:33:54.130007
 
 # Мелкое улучшение 2025-09-28 21:33:54.130287
+
+# ===== вставка функции =====
+def show_frequency_response(filter_type: FilterType, samplerate: int) -> None:
+    """
+    Show frequency response of a filter
+# ===== конец вставки =====

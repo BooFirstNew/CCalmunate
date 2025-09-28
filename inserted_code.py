@@ -35,3 +35,11 @@ def show_frequency_response(filter_type: FilterType, samplerate: int) -> None:
     """
     Show frequency response of a filter
 # ===== конец вставки =====
+
+# Мелкое улучшение 2025-09-28 21:39:01.834892
+
+# ===== вставка функции =====
+def show_phase_response(filter_type: FilterType, samplerate: int) -> None:
+    """
+    Show phase response of a filter
+# ===== конец вставки =====

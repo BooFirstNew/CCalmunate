@@ -43,3 +43,6 @@ def show_phase_response(filter_type: FilterType, samplerate: int) -> None:
     """
     Show phase response of a filter
 # ===== конец вставки =====
+
+# Мелкое улучшение 2025-10-01 11:05:03.837462
+#  2025-10-01 11:05:03.837685

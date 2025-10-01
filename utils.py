@@ -4,3 +4,4 @@ def process(self, sample: float) -> float:
         """
         Calculate y[n]
 #  2025-10-01 11:05:17.545808
+#  2025-10-01 11:05:25.329437

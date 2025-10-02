@@ -128,7 +128,7 @@ def insert_code(target_file):
 
 
 def add_comment(target_file):
-    comment = f"# Auto-comment {datetime.now()}\n"
+    comment = f"#  {datetime.now()}\n"
     with open(target_file, "a", encoding="utf-8") as f:
         f.write(comment)
     return target_file
@@ -183,8 +183,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-def show_phase_response(filter_type: FilterType, samplerate: int) -> None:
-    """
-    Show phase response of a filter
-
